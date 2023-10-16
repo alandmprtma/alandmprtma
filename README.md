@@ -24,9 +24,9 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-![alandmprtma's GitHub stats](https://github-readme-stats.vercel.app/api?username=alandmprtma&show_icons=true&theme=andromeda)
+![alandmprtma's GitHub stats](https://github-readme-stats.vercel.app/api?username=alandmprtma&show_icons=true&theme=monokai)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=alandmprtma&theme=andromeda&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=alandmprtma&theme=monokai&border_radius=4.5) -->
 
 #
 
