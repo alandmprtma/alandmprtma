@@ -27,6 +27,7 @@ I'm an indie full-stack developer and content creator building my version of the
 ![alandmprtma's GitHub stats](https://github-readme-stats.vercel.app/api?username=alandmprtma&show_icons=true&theme=andromeda)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=alandmprtma&theme=andromeda&border_radius=4.5) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandmprtma&layout=compact&theme=andromeda"/>
 
 #
 
