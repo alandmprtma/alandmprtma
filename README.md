@@ -25,7 +25,7 @@ Second-year undergraduate in the School of Electrical Engineering and Informatic
 ### 📊 Stats
 [![aland's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alandmprtma&theme=dracula)](https://github.com/alandmprtma/github-readme-activity-graph)
 <div align="center">
-    <a href = "https://github.com/bernarduswillson/">
+    <a href = "https://github.com/alandmprtma/">
       <img src="https://github-readme-stats.vercel.app/api?username=alandmprtma&hide=issues&count_private=true&show_icons=true&theme=andromeda" height=164/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandmprtma&layout=compact&theme=andromeda"/>
     </a>
